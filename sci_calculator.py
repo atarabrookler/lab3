@@ -1,3 +1,7 @@
+# Name: Atara Brookler
+# Class: COP3502C
+# Professor: Lisha Zhou
+# TA: Sunny Yu
 import math
 # initialize variables
 current_result = 0.0
